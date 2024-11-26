@@ -1,4 +1,4 @@
-const myarr =[1,2,3,4,5]
+const myarr =[1,2,3,4]
 
 console.log(myarr);
 myarr.push(6)
