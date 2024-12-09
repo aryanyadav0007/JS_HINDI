@@ -56,6 +56,6 @@ console.log(isLoggedIn())
  }
 
  function handleObjects(anyObject){
-    console.log(`${anyObject.username} is the username and ${anyObject.price} is the price `)
+    console.log(`${anyObject.username} is the username and ${anyObject.price}  is the price `)
  }
 handleObjects(user)
